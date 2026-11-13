@@ -55,7 +55,7 @@ CREATOR_ABOUT_TEXT = (
 SOCIAL_LINKS = {
     "Instagram": "https://www.instagram.com/wiam.dev",
     "YouTube": "https://www.youtube.com/@wiamdev",
-    "GitHub": "https://github.com/wiam-boop",
+    "GitHub": "https://github.com/wiam-bahri",
     "Website": "https://portfolio-inky-nine-59.vercel.app/",
 }
 
